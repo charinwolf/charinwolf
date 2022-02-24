@@ -31,9 +31,13 @@
 <br /> 
 <br />
 
+
 <h2>📫 How to reach me:</h2>
-<span>
-  <a href="https://www.linkedin.com/in/randy-leon-charinga-89112012a/"><img  src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linkedin/linkedin-tile.svg">
+
+ [![Connect on Email](https://img.shields.io/badge/Email-Randy%20Leon-bluee)](mailto:rcharinwolf@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/randy-leon-charinga/)
+
+
 <!--
 **charinwolf/charinwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
