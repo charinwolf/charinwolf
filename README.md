@@ -8,6 +8,7 @@
 - 🛢 &nbsp;  NodeJS | Express.js |Postgresql | Sequelize | 
  <br />
  <br />
+ <img align="right" width="50%" src="https://user-images.githubusercontent.com/76216411/155562980-8840daaa-3993-4bee-9fbe-2accd8c3d956.jpg">
  <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
  <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
  <code><img width="5%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
@@ -21,6 +22,7 @@
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg"></code>
+
 <br /> 
 <br />
 
@@ -30,7 +32,6 @@
 - English
 <br /> 
 <br />
-
 
 <h2>📫 How to reach me:</h2>
 
