@@ -1,6 +1,11 @@
 <h1 align="center">Hi there! 🎮  I'm Ran 🎮 </h1>
 <h2 align="center">💻 Full Stack Developer 💻 </h2>
 
+<h2>About me</h2>
+
+Website designer to create a true-to-brand appearance for a client. Committed to developing, organizing, managing and 
+executing your projects. I enjoy coding 🤓 reading 📚 and play videogames 🎮
+
 <br/>
 
   <h2> 🛠 Languages & Tools:</h2>
