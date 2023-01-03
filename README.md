@@ -6,7 +6,7 @@
 Website designer to create a true-to-brand appearance for a client. Committed to developing, organizing, managing and 
 executing your projects. I enjoy coding 🤓 reading 📚 and play videogames 🎮
 
-<br/>
+<hr />
 
   <h2> 🛠 Languages & Tools:</h2>
 - 💻 &nbsp; HTML5 | CSS3 | Bootstrap | JavaScript | React.js | Redux.js | Git |   <br />
