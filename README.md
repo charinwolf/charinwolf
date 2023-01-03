@@ -3,12 +3,11 @@
 
 <h2>💯 About me 💯</h2>
 
-Website designer to create a true-to-brand appearance for a client. Committed to developing, organizing, managing and 
-executing your projects. I enjoy coding 🤓 reading 📚 and play videogames 🎮
+Diseñador de sitios web. Soy una persona comprometida con lo que hago. Tengo tres pasiones en la vida: programar, leer y jugar videojuegos. 
 
 <hr />
 
-  <h2> 🛠 Languages & Tools:</h2>
+  <h2> 🛠 Lenguajes & Herramientas:</h2>
 - 💻 &nbsp; HTML5 | CSS3 | Bootstrap | JavaScript | React.js | Redux.js | Git |   <br />
 - 🛢 &nbsp;  NodeJS | Express.js |Postgresql | Sequelize | 
  <br />
@@ -31,14 +30,14 @@ executing your projects. I enjoy coding 🤓 reading 📚 and play videogames �
 <br /> 
 <br />
 
-<h2>🌎 Languages: </h2>
+<h2>🌎 Lenguajes: </h2>
 
-- Spanish (native)
-- English
+- Español (native)
+- Ingles
 <br /> 
 <br />
 
-<h2>📫 How to reach me:</h2>
+<h2>📫 ¿Cómo me puedes encontrar?:</h2>
 
  [![Connect on Email](https://img.shields.io/badge/Email-Randy%20Leon-bluee)](mailto:rcharinwolf@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/randy-leon-charinga/)
