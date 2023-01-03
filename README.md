@@ -5,6 +5,8 @@
 
 Diseñador de sitios web. Soy una persona comprometida con lo que hago. Tengo tres pasiones en la vida: programar, leer y jugar videojuegos. 
 
+⚡ Fun fact: ¿Sabias que las personas nacidas en la decada de 1980 son la ultima generacion que vio el mundo antes de la era tecnológica? 
+
 <hr />
 
   <h2> 🛠 Lenguajes & Herramientas:</h2>
@@ -30,7 +32,7 @@ Diseñador de sitios web. Soy una persona comprometida con lo que hago. Tengo tr
 <br /> 
 <br />
 
-<h2>🌎 Lenguajes: </h2>
+<h2>🌎 Idiomas: </h2>
 
 - Español (native)
 - Ingles
@@ -39,7 +41,7 @@ Diseñador de sitios web. Soy una persona comprometida con lo que hago. Tengo tr
 
 <h2>📫 ¿Cómo me puedes encontrar?:</h2>
 
- [![Connect on Email](https://img.shields.io/badge/Email-Randy%20Leon-bluee)](mailto:rcharinwolf@gmail.com)
+[![Connect on Email](https://img.shields.io/badge/Email-Randy%20Leon-bluee)](mailto:rcharinwolf@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/randy-leon-charinga/)
 
 
