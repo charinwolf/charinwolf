@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 🎮  I'm Ran 🎮 </h1>
 <h2 align="center">💻 Full Stack Developer 💻 </h2>
 
-<h2>💯 About me 💯</h2>
+<h2>💯 Acerca de mi 💯</h2>
 
 Diseñador de sitios web. Soy una persona comprometida con lo que hago. Tengo tres pasiones en la vida: programar, leer y jugar videojuegos. 
 
