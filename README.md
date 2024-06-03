@@ -1,22 +1,23 @@
 <h1 align="center">Hi there! 🎮  I'm Ran 🎮 </h1>
 <h2 align="center">💻 Full Stack Developer 💻 </h2>
-
+<h2 align="center">Transformando Ideas en Soluciones Web Perfectas y Visualmente Impresionantes.</h2>
+<br />
 <h2>💯 Acerca de mi 💯</h2>
+Profesional enfocado en el arte de la programación, especificamente en aplicaciones MERN (Mongo Express, React, Node).
+Siempre buscando oportunidades que me permitan mejorar profesionalmente.
 
-Programador FullStack. Transformando Ideas en Soluciones Web Perfectas y Visualmente Impresionantes.
-
+<br />
 <hr />
 
   <h2> 🛠 Lenguajes & Herramientas:</h2>
   <br />
    <img align="right" width="50%" src="https://github.com/charinwolf/charinwolf/blob/main/Logos/codgo.jpg">
--  HTML5 | CSS3 | JavaScript | React.js | Git |   
+-  HTML5 | CSS3 | React.js |  
  <br />
  <br />
  <code><img src="https://github.com/charinwolf/charinwolf/blob/main/Logos/html.png" width="5%"></code> 
  <code><img src="https://github.com/charinwolf/charinwolf/blob/main/Logos/ccs3.png" width="5%"></code>
  <code><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="5%"></code>
- <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="5%"></code>
  <br />
  <br />
 -  JavaScript | NodeJS | Express.js | MongoDB |
@@ -27,10 +28,6 @@ Programador FullStack. Transformando Ideas en Soluciones Web Perfectas y Visualm
 <code><img width="5%" src="https://github.com/charinwolf/charinwolf/blob/main/Logos/mongo.png"></code>
  <br />
  <br />
-
- 
-<br /> 
-<br />
 
 <h2>🌎 Idiomas: </h2>
 
