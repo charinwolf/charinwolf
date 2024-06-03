@@ -3,15 +3,13 @@
 
 <h2>💯 Acerca de mi 💯</h2>
 
-Diseñador de sitios web. Soy una persona comprometida con lo que hago. Tengo tres pasiones en la vida: programar, leer y jugar videojuegos. 
-
-⚡ Fun fact: ¿Sabias que las personas nacidas en la decada de 1980 son la ultima generacion que vio el mundo antes de la era tecnológica? 
+Programador FullStack. Transformando Ideas en Soluciones Web Perfectas y Visualmente Impresionantes.
 
 <hr />
 
   <h2> 🛠 Lenguajes & Herramientas:</h2>
   <br />
-   <img align="right" width="50%" src="https://user-images.githubusercontent.com/76216411/155562980-8840daaa-3993-4bee-9fbe-2accd8c3d956.jpg">
+   <img align="right" width="50%" src="https://github.com/charinwolf/charinwolf/blob/main/Logos/codgo.jpg">
 -  HTML5 | CSS3 | JavaScript | React.js | Git |   
  <br />
  <br />
