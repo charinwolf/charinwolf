@@ -15,7 +15,7 @@ Diseñador de sitios web. Soy una persona comprometida con lo que hago. Tengo tr
  <br />
  <br />
  <img align="right" width="50%" src="https://user-images.githubusercontent.com/76216411/155562980-8840daaa-3993-4bee-9fbe-2accd8c3d956.jpg">
- ![html](https://github.com/charinwolf/charinwolf/blob/main/Logos/html.png)
+ ![html](https://github.com/charinwolf/charinwolf/blob/main/Logos/html.png?raw=true)
  <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
  <code><img width="5%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
  <code><img width="4.4%" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg"></code>
