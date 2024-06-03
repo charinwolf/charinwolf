@@ -10,27 +10,20 @@ Diseñador de sitios web. Soy una persona comprometida con lo que hago. Tengo tr
 <hr />
 
   <h2> 🛠 Lenguajes & Herramientas:</h2>
-- 💻 &nbsp; HTML5 | CSS3 | Bootstrap | JavaScript | React.js | Redux.js | Git |   <br />
-- 🛢 &nbsp;  NodeJS | Express.js |Postgresql | Sequelize | 
+-  HTML5 | CSS3 | JavaScript | React.js | Git |   <br />
+ <code><img src="https://github.com/charinwolf/charinwolf/blob/main/Logos/html.png" width="5%"></code> 
+ <code><img src="https://github.com/charinwolf/charinwolf/blob/main/Logos/ccs3.png" width="5%"></code>
+ <code><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="5%"></code>
+ <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="5%"></code>
+ <br />
+-  JavaScript | NodeJS | Express.js | MongoDB |
+<code><img src="https://github.com/charinwolf/charinwolf/blob/main/Logos/js.png" width="5%"></code>
+<code><img width="5%" src="https://github.com/charinwolf/charinwolf/blob/main/Logos/node.png"></code> 
+<code><img width="5%" src="https://github.com/charinwolf/charinwolf/blob/main/Logos/mongo.png"></code>
  <br />
  <br />
  <img align="right" width="50%" src="https://user-images.githubusercontent.com/76216411/155562980-8840daaa-3993-4bee-9fbe-2accd8c3d956.jpg">
  
- <code><img src="https://github.com/charinwolf/charinwolf/blob/main/Logos/html.png?raw=true" width="5%"></code>
- 
- <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
- <code><img width="5%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
- <code><img width="4.4%" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg"></code>
- <code><img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
- <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
- <code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-<br /> 
-<br />
-<code><img width="5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code> 
-<code><img width="5%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"></code>
-<code><img width="5%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
-<code><img width="5%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg"></code>
-
 <br /> 
 <br />
 
