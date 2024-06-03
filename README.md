@@ -28,7 +28,7 @@ Siempre buscando oportunidades que me permitan mejorar profesionalmente.
 <code><img width="5%" src="https://github.com/charinwolf/charinwolf/blob/main/Logos/mongo.png"></code>
  <br />
  <br />
-
+<hr />
 <h2>🌎 Idiomas: </h2>
 
 - Español (native)
