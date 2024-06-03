@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 🎮  I'm Ran 🎮 </h1>
+<h1 align="center">¡Hi there I'm Ran! </h1>
 <h2 align="center">💻 Full Stack Developer 💻 </h2>
 <h2 align="center">Transformando Ideas en Soluciones Web Perfectas y Visualmente Impresionantes.</h2>
 <br />
