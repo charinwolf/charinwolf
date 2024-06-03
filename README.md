@@ -10,13 +10,18 @@ Diseñador de sitios web. Soy una persona comprometida con lo que hago. Tengo tr
 <hr />
 
   <h2> 🛠 Lenguajes & Herramientas:</h2>
--  HTML5 | CSS3 | JavaScript | React.js | Git |   <br />
+-  HTML5 | CSS3 | JavaScript | React.js | Git |   
+ <br />
+ <br />
  <code><img src="https://github.com/charinwolf/charinwolf/blob/main/Logos/html.png" width="5%"></code> 
  <code><img src="https://github.com/charinwolf/charinwolf/blob/main/Logos/ccs3.png" width="5%"></code>
  <code><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="5%"></code>
  <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="5%"></code>
  <br />
--  JavaScript | NodeJS | Express.js | MongoDB | <br />
+ <br />
+-  JavaScript | NodeJS | Express.js | MongoDB |
+  <br />
+  <br />
 <code><img src="https://github.com/charinwolf/charinwolf/blob/main/Logos/js.png" width="5%"></code>
 <code><img width="5%" src="https://github.com/charinwolf/charinwolf/blob/main/Logos/node.png"></code> 
 <code><img width="5%" src="https://github.com/charinwolf/charinwolf/blob/main/Logos/mongo.png"></code>
