@@ -10,6 +10,8 @@ Diseñador de sitios web. Soy una persona comprometida con lo que hago. Tengo tr
 <hr />
 
   <h2> 🛠 Lenguajes & Herramientas:</h2>
+  <br />
+   <img align="right" width="50%" src="https://user-images.githubusercontent.com/76216411/155562980-8840daaa-3993-4bee-9fbe-2accd8c3d956.jpg">
 -  HTML5 | CSS3 | JavaScript | React.js | Git |   
  <br />
  <br />
@@ -27,7 +29,7 @@ Diseñador de sitios web. Soy una persona comprometida con lo que hago. Tengo tr
 <code><img width="5%" src="https://github.com/charinwolf/charinwolf/blob/main/Logos/mongo.png"></code>
  <br />
  <br />
- <img align="right" width="50%" src="https://user-images.githubusercontent.com/76216411/155562980-8840daaa-3993-4bee-9fbe-2accd8c3d956.jpg">
+
  
 <br /> 
 <br />
